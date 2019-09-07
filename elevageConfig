@@ -1,0 +1,6 @@
+server.port=9001
+
+spring.datasource.sql-script-encoding=UTF-8
+
+my-configs.limitCycle = 4
+
